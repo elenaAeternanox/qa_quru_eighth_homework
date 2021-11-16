@@ -1,4 +1,4 @@
-"Print customer's name"
+"Customer's name isn't empty"
 BLOCKER
 Preconditions: There's information about customer's name
 

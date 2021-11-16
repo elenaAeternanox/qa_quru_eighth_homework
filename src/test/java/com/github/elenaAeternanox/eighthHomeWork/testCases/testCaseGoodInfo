@@ -1,4 +1,4 @@
-"Print good's info"
+"Good's info is filled correct"
 BLOCKER
 Preconditions: The public Enum with information about goods is created
 

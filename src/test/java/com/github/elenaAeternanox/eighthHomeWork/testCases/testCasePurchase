@@ -1,4 +1,4 @@
-"Print info about one purchase in a market and check the percentage of salary"
+"Info about one purchase in a market is filled correct"
 BLOCKER
 Preconditions: There's information about customers and their one purchase
 

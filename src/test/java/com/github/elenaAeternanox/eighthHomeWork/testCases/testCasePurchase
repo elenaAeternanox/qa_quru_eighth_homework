@@ -1,0 +1,13 @@
+"Print info about one purchase in a market and check the percentage of salary"
+BLOCKER
+Preconditions: There's information about customers and their one purchase
+
+Steps:
+1. Calc the percentage from a salary: percentageFromSalary = sum * 100 / salary
+2. Print info about a customer
+3. Print info about purchase
+4. Print the percentage from a salary
+5. Check: percentage from a salary
+
+Expected result:
+The percentage from a salary should be less 100% and more 0%

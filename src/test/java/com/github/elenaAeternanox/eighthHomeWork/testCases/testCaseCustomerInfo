@@ -1,0 +1,9 @@
+"Print customer's info"
+BLOCKER
+Preconditions: There's information about customer
+
+Steps:
+1. Print info about a customer
+
+Expected result:
+The customer should be older 3 years old

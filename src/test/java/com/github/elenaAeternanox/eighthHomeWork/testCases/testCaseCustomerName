@@ -1,0 +1,9 @@
+"Print customer's name"
+BLOCKER
+Preconditions: There's information about customer's name
+
+Steps:
+1.Print a customer's name
+
+Expected result:
+The name isn't empty

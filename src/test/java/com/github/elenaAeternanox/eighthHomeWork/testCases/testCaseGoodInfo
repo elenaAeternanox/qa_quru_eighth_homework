@@ -1,0 +1,9 @@
+"Print good's info"
+BLOCKER
+Preconditions: The public Enum with information about goods is created
+
+Steps:
+1. Print info about a good
+
+Expected result:
+The price should be more 0

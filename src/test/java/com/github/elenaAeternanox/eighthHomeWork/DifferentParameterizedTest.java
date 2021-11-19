@@ -37,9 +37,9 @@ public class DifferentParameterizedTest {
 
     static Stream<Arguments> printInfoAboutOnePurchase() {
         return Stream.of(
-                Arguments.of("Alex", "Kotov", 30, "Moscow", List.of("milk, sugar"), 234.5, 67895),
-                Arguments.of("Elena", "Grach", 43, "Samara", List.of("cheese, chocolate"), 354.2, 78945.3),
-                Arguments.of("Andrew", "Balkonov", 29, "Izevsk", List.of("meat, juice, apples"), 563, 89456)
+                Arguments.of("Alex", "Kotov", 30, "Moscow", List.of("milk", "sugar"), 234.5, 67895),
+                Arguments.of("Elena", "Grach", 43, "Samara", List.of("cheese", "chocolate"), 354.2, 78945.3),
+                Arguments.of("Andrew", "Balkonov", 29, "Izevsk", List.of("meat", "juice"), 563, 89456)
         );
     }
 
